@@ -1,10 +1,12 @@
 import React from 'react'
 
-export default function () {
+
+export default function About() {
+ 
   return (
     <>
         <div>
-        <h1>Welcome in 30daysofcode challange</h1>
+        <h1>Welcome </h1>
     </div>
     </>
 
